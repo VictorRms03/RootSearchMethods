@@ -1,0 +1,1 @@
+Este é um projeto simples onde é possível comparar a busca das raizes da função 'x³ - 7x² + 14x - 6' pelos métodos da Bissecção e Newton.
